@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darvelous
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning HTML5, CSS3, JS, Kotlin etc.
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me: 
 
 <!---
